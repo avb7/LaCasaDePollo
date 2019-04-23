@@ -1,0 +1,10 @@
+﻿.body-content .section-inner p input {
+	color: #FFF;
+	background-color: #F4292C;
+	height: 30px;
+	width: 60px;
+	font-weight: bold;
+}
+.body-content .section-inner p #head {
+	font-weight: bold;
+}

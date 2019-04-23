@@ -1,0 +1,14 @@
+﻿.body-content .section-inner p input {
+	color: #EC2F3B;
+	height: 20px;
+	width: 150px;
+	font-weight: bold;
+	border-top-style: solid;
+	border-right-style: solid;
+	border-bottom-style: solid;
+	border-left-style: solid;
+	border-top-color: #EC2F3B;
+	border-right-color: #EC2F3B;
+	border-bottom-color: #EC2F3B;
+	border-left-color: #EC2F3B;
+}
